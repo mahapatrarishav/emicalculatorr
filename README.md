@@ -7,7 +7,8 @@
 
 -The EMI and Interest Rate are provided by the following api:
 https://ftl-frontend-test.herokuapp.com/interest?amount=<amount>&numMonths=<numMonths>
-  -Provide the amount and number of months values to "amount" and "numMonths" URL parameters .
+  
+-Provide the amount and number of months values to "amount" and "numMonths" URL parameters .
   
 -Third Party frameworks have been used for the slider Inputs and the Side Navigation Bar .
  - react-input-range library has been used for the slider Inputs (https://www.npmjs.com/package/react-input-range)
